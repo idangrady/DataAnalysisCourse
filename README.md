@@ -7,6 +7,6 @@ https://osiris.uu.nl/osiris_student_uuprd/OnderwijsCatalogusSelect.do?selectie=c
 ## Content
 There is a separate folder for each person (by name) \\ 
 
-## Website Disply
+## Website Display
 Under Idans folder, a Dash interactive website was created named DashDisplay.ipynb. To view, run the program and use the produced link.
  
